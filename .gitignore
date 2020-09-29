@@ -1,0 +1,6 @@
+.*
+R
+!.gitignore
+models
+temp_data
+tensorflow_datasets
