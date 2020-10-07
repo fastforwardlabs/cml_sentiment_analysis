@@ -41,7 +41,7 @@
 # > Save the file (if it has not auto saved already) and go back to the Project.
 
 # From there Go to the **Applications** section and select "New Application" with the following:
-# * **Name**:Senitment Predictor
+# * **Name**:Sentiment Predictor
 # * **Subdomain**: sentibot _(note: this needs to be unique, so if you've done this before, 
 # pick a more random subdomain name)_
 # * **Script**: R Code/4_shiny_app.R
