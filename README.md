@@ -255,7 +255,7 @@ following details:
 * **Input**: 
 ```
 {
-  "sentence": "I've had a long day"
+  "sentence": "Ive had a long day"
 }
 ```
 * **Kernel**: Python 3
@@ -320,7 +320,7 @@ the underlying models created in the previous step.
 > Save the file (if it has not auto saved already) and go back to the Project.
 
 From there Go to the **Applications** section and select "New Application" with the following:
-* **Name**:Senitment Predictor
+* **Name**:Sentiment Predictor
 * **Subdomain**: sentibot _(note: this needs to be unique, so if you've done this before, 
 pick a more random subdomain name)_
 * **Script**: R Code/4_shiny_app.R
@@ -328,7 +328,7 @@ pick a more random subdomain name)_
 * **Engine Profile**: 1vCPU / 2 GiB Memory
 
 After the Application deploys, click on the blue-arrow next to the name to launch the 
-applicatio. This application is self explanitory, type in a sentence and choose which model
+application. This application is self explanatory, type in a sentence and choose which model
 to send it to to get a sentiment prediction back.
 
 ![application](images/app.png)

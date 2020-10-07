@@ -11,7 +11,7 @@ trunc_type='post'
 padding_type='post'
 
 
-#args = {"sentence":"I've had a long day"}
+#args = {"sentence":"Ive had a long day"}
 
 def predict_sentiment(args):
   sent = args["sentence"]
